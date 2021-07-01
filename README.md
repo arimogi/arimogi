@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **arimogi/arimogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Fun fact: GitHub is a GitHub with GitHub
+
 
 <div align="center">
+  
+  - ⚡ Fun fact: GitHub is a GitHub with GitHub
   <img src="https://github.com/vemarav/vemarav/blob/main/readme.svg" width="800" height="400" />
+  ### Hi there 👋
 </div>
