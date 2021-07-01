@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  - ⚡ Fun fact: GitHub is a GitHub with GitHub
-  <img src="https://github.com/vemarav/vemarav/blob/main/readme.svg" width="800" height="400" />
+  ## Fun fact: GitHub is a GitHub with GitHub <br />
+  <img src="https://github.com/vemarav/vemarav/blob/main/readme.svg" width="800" height="400" /><br />
   ### Hi there 👋
 </div>
